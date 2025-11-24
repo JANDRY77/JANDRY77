@@ -1,10 +1,10 @@
 <h1 align="center">Hi , I'm Jandry Cantos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img aling="left" width=300px src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHRkMmlsMzEyOWI0YXhyaXdldmh2M245aGZzdjZsZG5ta3p4NHNoZSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Z26DmCJ2yyGhkYTVep/200.webp" /> 
+<img aling="left" width=200px src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHRkMmlsMzEyOWI0YXhyaXdldmh2M245aGZzdjZsZG5ta3p4NHNoZSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Z26DmCJ2yyGhkYTVep/200.webp" /> 
 
-<img aling="center" width=300px src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjc3dmhzbm1jdGVkczBwa3B1M2dzczFvN2xtcjFkN21xOWxsc2J4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GUfVhXUpuBEHK8sNiS/giphy.gif" /> 
+<img aling="center" width=200px src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjc3dmhzbm1jdGVkczBwa3B1M2dzczFvN2xtcjFkN21xOWxsc2J4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GUfVhXUpuBEHK8sNiS/giphy.gif" /> 
 
-<img aling="right" width=300px src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhybGx5dzlrMjAwaTFpZnlrNjl2MjYxbjU2c2s0Y2ppcmZkaHR5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xCBu9lNZmPxKBkWeLz/giphy.gif" />
+<img aling="right" width=200px src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhybGx5dzlrMjAwaTFpZnlrNjl2MjYxbjU2c2s0Y2ppcmZkaHR5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xCBu9lNZmPxKBkWeLz/giphy.gif" />
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
